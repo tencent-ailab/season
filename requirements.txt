@@ -1,0 +1,11 @@
+datasets==2.7.1
+evaluate==0.3.0
+pandas==1.4.2
+rouge-score==0.1.2
+tokenizers==0.12.1
+torch==1.11.0
+torchaudio==0.11.0
+torchmetrics==0.8.2
+torchvision==0.12.0
+tqdm==4.64.0
+transformers==4.25.1
