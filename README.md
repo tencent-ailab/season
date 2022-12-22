@@ -20,9 +20,9 @@ We propose allocation of salience expectation as flexible and reliable guidance 
 To estimate and incorporate the salience allocation, 
 we propose a salience-aware cross-attention that is free to plug into any Transformer-based encoder-decoder models, 
 consisting of three steps:
-1. Estimate salience degrees of each sentence.
-2. Map salience degrees to embeddings.
-3. Add salience embeddings to key states of cross-attention.
+1. [Estimate salience degrees of each sentence](https://github.com/tencent-ailab/season/blob/32eafea39a00bc09daa29c187d566e7cc9c262fa/model.py#L1260).
+2. [Map salience degrees to embeddings](https://github.com/tencent-ailab/season/blob/32eafea39a00bc09daa29c187d566e7cc9c262fa/model.py#L199).
+3. [Add salience embeddings to key states of cross-attention](https://github.com/tencent-ailab/season/blob/32eafea39a00bc09daa29c187d566e7cc9c262fa/model.py#L205).
 
 ![](figure/model.png)
 
