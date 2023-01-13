@@ -24,7 +24,11 @@ consisting of three steps:
 2. [Map salience degrees to embeddings](https://github.com/tencent-ailab/season/blob/32eafea39a00bc09daa29c187d566e7cc9c262fa/model.py#L199).
 3. [Add salience embeddings to key states of cross-attention](https://github.com/tencent-ailab/season/blob/32eafea39a00bc09daa29c187d566e7cc9c262fa/model.py#L205).
 
+<div align='center'>
+    
 ![](figure/model.png)
+    
+</div>
 
 ## Environment
 
