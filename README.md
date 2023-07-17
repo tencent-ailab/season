@@ -63,7 +63,7 @@ Note that the evaluation process for each checkpoint during training are simplif
 ## Inference
 You can use our trained model weights to generate summaries for your data.
 
-Step 1. Download [Trained Model Weights](https://tencentamerica-my.sharepoint.com/:u:/p/riversong/EXjiTZn3XJpIrdrFfcugtz4BLOJyH7K9efMAaF9SIRLCJQ?e=2BSHO9) to ``checkpoints`` directory.
+Step 1. Download [Trained Model Weights](https://tencentoverseas-my.sharepoint.com/:u:/g/personal/riversong_global_tencent_com/ERIOkK_Ka01Es0qc7VK-uX8BfxqUfiULeVHDHfwmnnMi3Q?e=NiAeXr) to ``checkpoints`` directory.
 ```bash
 mkdir checkpoints
 cd checkpoints
